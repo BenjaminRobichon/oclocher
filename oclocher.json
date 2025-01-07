@@ -1,0 +1,15 @@
+{
+    "buttonImageUrl": "string",
+    "imageUrl": "string",
+    "title": "string",
+    "content": "string",
+    "tracks": [
+        {
+            "title": "string",
+            "program": "string",
+            "description": "string",
+            "audioUrl": "string",
+            "imageUrl": "string"
+        }
+    ]
+}
