@@ -2,14 +2,21 @@
     "buttonImageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_nQVvJtol8eivH0WjT8o5v74oJQirniznZXAgQXefPMfA=s160-c-k-c0x00ffffff-no-rj",
     "imageUrl": "https://yt3.googleusercontent.com/dQdMNYXozsKwi5Z7YbAwFxBGuTYgkjEA6YOOZuV5AppmKrlc2TCB4ZSABTsiwthvTVDOHqvCCiY=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
     "title": "Les Médiateurs",
-    "content": "<section style=\"display: flex; flex-direction: column; align-items: center\"><h1>Bonjour et bienvenue sur ma chaine Youtube les Médiateurs</h1><p style=\"font-weight: 100\">MA PRESENTATION</p><p style=\"font-weight: 100\">Voici ma dernière vidéo :</p><a href=\"https://www.youtube.com/watch?v=YJ2BWOAamgw\" target=\"_blanc\"><img src=\"https://img.youtube.com/vi/YJ2BWOAamgw/0.jpg\" /></a></section>",
+    "content": "<section style=\"display: flex; flex-direction: column; align-items: center\"><h1>Bonjour et bienvenue sur ma chaine Youtube les Médiateurs</h1><p style=\"font-weight: 100\">Ma mission est de promouvoir des lieux de culte catholique et de mettre en lumière des belles personnalités dans le but de favoriser une rencontre avec Dieu chez les jeunes. Si vous voulez soutenir cette mission particulière vous pouvez regarder les vidéos et vous abonnez à la chaîne YouTube surtout !</p><p style=\"font-weight: 100\">Voici ma dernière vidéo :</p><a href=\"https://youtu.be/4ATMNlePqwM\" target=\"_blanc\"><img src=\"https://img.youtube.com/vi/4ATMNlePqwM/0.jpg\" /></a></section>",
     "tracks": [
         {
-            "title": "string",
-            "program": "string",
-            "description": "string",
-            "audioUrl": "string",
-            "imageUrl": "string"
+            "title": "Le nouveau podcast CHRÉTIEN qui remet L'ÉGLISE AU CENTRE DU VILLAGE",
+            "program": "La Zouaverie Pontificale",
+            "description": "La Zouaverie Pontificale, c'est le nouveau format podcast récurrent de la chaîne où on remet l'Eglise au centre du village. En tout cas on essaye, et surtout on essaye de le faire avec humour, en étant nous-même. Dans ce format, on a envie de parler de tout, mais surtout de Dieu, et de Dieu aujourd'hui dans notre quotidien avec tous les enjeux actuels de ce monde : Politiques, écologiques, économiques, bref la recherche de sens.",
+            "audioUrl": "https://open.spotify.com/episode/4OO79V2iWNTReM2y5ZVpFG?si=Jnru_jRvTnmu_-bYKntAxw",
+            "imageUrl": "<img src=\"https://img.youtube.com/vi/_QxxJCz1NrM/0.jpg\" />"
+        },
+        {
+            "title": "On devait parler du TRAVAIL pour l'Eglise... avec Clémence Pasquier",
+            "program": "La Zouaverie Pontificale",
+            "description": "Pour cet épisode on a eu la chance de recevoir notre amie Clémence Pasquier que vous avez déjà sûrement entendu sur Les Lueurs ou dans d'autres émissions pour nous parler de l'épreuve de la maladie qu'elle traverse. Cette fois-ci, ce qui nous intéressait c'était de parler de notre mission à chacun dans l'église.",
+            "audioUrl": "https://open.spotify.com/episode/5fCs7sjHo6P4iGshX5PXxV?si=jw6owZ2RQhqHFITo5wyiYA",
+            "imageUrl": "<img src=\"https://img.youtube.com/vi/YJ2BWOAamgw/0.jpg\" />"
         }
     ]
 }
