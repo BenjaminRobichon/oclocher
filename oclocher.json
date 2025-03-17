@@ -2,7 +2,7 @@
     "buttonImageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_nQVvJtol8eivH0WjT8o5v74oJQirniznZXAgQXefPMfA=s160-c-k-c0x00ffffff-no-rj",
     "imageUrl": "https://yt3.googleusercontent.com/dQdMNYXozsKwi5Z7YbAwFxBGuTYgkjEA6YOOZuV5AppmKrlc2TCB4ZSABTsiwthvTVDOHqvCCiY=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
     "title": "Des podcasts où nous parlons de sujets profonds et qui nous tiennent à cœur",
-    "content": "<section style=\"display: flex; flex-direction: column; align-items: center\"><p style=\"font-weight: 100\">Nous abordons à coeur ouvert avec nos invités des sujets religieux, de sociétés, etc... le tout sans coupures ni barrières. Pour voir plus de contenus avec des personnalités inspirantes, rendez-vous sur la chaîne Youtube des Médiateurs. Ci-dessous, la dernière vidéo :</p><a href=\"https://www.youtube.com/watch?v=JA-4DWpl9IU\" target=\"_blanc\"><img src=\"https://img.youtube.com/vi/JA-4DWpl9IU/0.jpg\" /></a></section>",
+    "content": "<section style=\"display: flex; flex-direction: column; align-items: center\"><p style=\"font-weight: 100\">Nous abordons à coeur ouvert avec nos invités des sujets religieux, de sociétés, etc... le tout sans coupures ni barrières. Pour voir plus de contenus avec des personnalités inspirantes, rendez-vous sur la chaîne Youtube des Médiateurs. Ci-dessous, la dernière vidéo :</p><a href=\"https://youtu.be/QiweAVfKMEU\" target=\"_blanc\"><img src=\"https://img.youtube.com/vi/QiweAVfKMEU/0.jpg\" /></a></section>",
 "tracks": [
         {
             "title": "Le nouveau podcast CHRÉTIEN qui remet L'ÉGLISE AU CENTRE DU VILLAGE",
@@ -17,6 +17,13 @@
             "description": "Pour cet épisode on a eu la chance de recevoir notre amie Clémence Pasquier que vous avez déjà sûrement entendu sur Les Lueurs ou dans d'autres émissions pour nous parler de l'épreuve de la maladie qu'elle traverse. Cette fois-ci, ce qui nous intéressait c'était de parler de notre mission à chacun dans l'église.",
             "audioUrl": "https://mediateurs.djurdjevic-sacha.fr/uploads/mp3/ep2.mp3",
             "imageUrl": "https://img.youtube.com/vi/YJ2BWOAamgw/0.jpg"
+        },
+        {
+            "title": "L'évolution de l'église catholique en France avec lecathodeservice",
+            "program": "Ep 3 - La Zouaverie Pontificale",
+            "description": "Dans ce nouvel épisode on analyse l'évolution de l'église catholique en France avec Victor de la chaîne : lecathodeservice  ! C'était un immense honneur de le recevoir parmi nous. On a pu discuter longuement, analyser mais aussi rire. Et parler de chose profonde comme le sens de la vie, comment en parler, que dit l'Eglise etc.",
+            "audioUrl": "https://mediateurs.djurdjevic-sacha.fr/uploads/mp3/Timeline%201.mp3",
+            "imageUrl": "https://img.youtube.com/vi/JA-4DWpl9IU.jpg"
         }
     ]
 }
